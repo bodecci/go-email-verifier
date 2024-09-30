@@ -1,0 +1,3 @@
+## Email Verifier
+
+### This code is designed to read domain names from the standard input, check for specific types of DNS records for each domain, and print out the results in a CSV format. It checks for MX records (mail servers), SPF records (email sender policies), and DMARC records (email security policies). This can be useful for auditing domain configurations, especially in the context of email security.
